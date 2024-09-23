@@ -6,7 +6,7 @@ library_name: transformers
 tags:
 - mergekit
 - merge
-
+license: apache-2.0
 ---
 # 2PRYMMAL-Yi1.5-6B-SLERP
 
@@ -45,5 +45,8 @@ parameters:
       value: [1, 0.75, 0.5, 0.25, 0]
     - value: 0.5
 dtype: bfloat16
+
+## Licence
+Ce modèle est mis à disposition sous la Licence Apache 2.0. Vous pouvez voir une copie de cette licence à l'adresse suivante : [http://www.apache.org/licenses/LICENSE-2.0](http://www.apache.org/licenses/LICENSE-2.0).
 
 ```
